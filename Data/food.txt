@@ -1,0 +1,115 @@
+Name = Donut
+ID = 0
+Points = 10
+Parts = 150
+Radius = 48
+PartColor = 225 132 188
+
+Name = Pretzel
+ID = 1
+Points = 20
+Parts = 40
+Radius = 42
+PartColor = 214 128 044
+
+Name = Gummy
+ID = 2
+Points = 30
+Parts = 10
+Radius = 16
+PartColor = 193 34 195
+
+Name = Fried_Egg
+ID = 3
+Points = 15
+Parts = 200
+Radius = 96
+PartColor = 255 216 0
+
+Name = Brigadeiro
+ID = 4
+Points = 20
+Parts = 40
+Radius = 42
+PartColor = 142 80 60
+
+Name = Strawberry
+ID = 5
+Points = 20
+Parts = 50
+Radius = 32
+PartColor = 255 63 63
+
+Name = Toast
+ID = 6
+Points = 10
+Parts = 300
+Radius = 96
+PartColor = 225 190 80
+
+Name = Cracker
+ID = 7
+Points = 15
+Parts = 100
+Radius = 32
+EatFrames = 4
+PartColor = 230 210 120
+
+Name = Burger
+ID = 8
+Points = 15
+Parts = 100
+Radius = 70
+EatFrames = 3
+PartColor = 230 210 120
+
+Name = Jelly
+ID = 9
+Points = 15
+Parts = 100
+Radius = 80
+EatFrames = 3
+AnimationFrames = 7
+AnimationDelay = 8
+PartColor = 200 43 23
+
+Name = Bubble Gum
+ID = 10
+Points = 30
+Parts = 10
+Radius = 16
+Variants = 4
+PartColor = 200 43 23
+
+Name = Fruit Cereal
+ID = 11
+Points = 30
+Parts = 10
+Radius = 16
+Variants = 7
+PartColor = 200 43 23
+
+Name = Sausage on stick
+ID = 12
+Points = 15
+Parts = 50
+Radius = 90
+EatFrames = 5
+PartColor = 200 43 23
+
+Name = Cracker2
+ID = 13
+Points = 15
+Parts = 100
+Radius = 32
+EatFrames = 4
+PartColor = 230 210 120
+
+Name = Gummy Worm
+ID = 14
+Points = 20
+Parts = 40
+Width = 160
+Height = 32
+EatFrames = 4
+PartColor = 255 100 100

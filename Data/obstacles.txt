@@ -1,0 +1,88 @@
+Name = Ball
+ID = 0
+Radius = 16
+
+Name = Bear Body
+ID = 1
+Radius = 95
+
+Name = Bear Head
+ID = 2
+Radius = 65
+
+Name = Bolt
+ID = 3
+Radius = 16
+Variants = 2
+
+Name = Bottle Cap
+ID = 4
+Radius = 16
+
+Name = Dino
+ID = 5
+Radius = 42
+
+Name = Doll Body
+ID = 6
+Radius = 25
+
+Name = Jacks
+ID = 7
+Radius = 16
+Variants = 4
+
+Name = Leaf1
+ID = 8
+Radius = 132
+
+Name = Leaf2
+ID = 9
+Radius = 132
+
+Name = Leaf3
+ID = 10
+Radius = 132
+
+Name = Leaf4
+ID = 11
+Radius = 132
+
+Name = Plant1
+ID = 12
+Radius = 65
+
+Name = Rock5
+ID = 13
+Radius = 70
+
+Name = Rock6
+ID = 14
+Radius = 70
+
+Name = Rock8
+ID = 15
+Radius = 70
+
+Name = Rock10
+ID = 16
+Radius = 70
+
+Name = Rubber Duck1
+ID = 17
+Radius = 45
+
+Name = Rubber Duck2
+ID = 18
+Radius = 45
+
+Name = Grass1
+ID = 19
+Radius = 32
+Pivot = Top Left
+
+Name = PowerupFlower
+ID = 20
+Width = 32
+Height = 32
+Pivot = Bottom Center

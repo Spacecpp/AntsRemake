@@ -1,0 +1,5 @@
+explosionAnimationFrames = 10
+explosionAnimationDelay = 4
+
+fireAnimationFrames = 5
+fireAnimationDelay = 6
