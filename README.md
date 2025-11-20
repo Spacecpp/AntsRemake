@@ -10,5 +10,7 @@ Inside the Data folder are a few script-like files:
 * animations.txt: allow modifiying a few animations.
 
 # Compiling
-The project is developed in C++ using my custom game library [Alegrinho](https://github.com/Spacecpp/Alegrinho). Run the IDE of your choice and create a project and setup the search paths to point to the library source and pass -lAlegrinho to the linker.  
+The project is developed in C++ using my custom game library [Alegrinho](https://github.com/Spacecpp/Alegrinho). 
+Download and extract the source. You will also need [GLM](https://github.com/g-truc/glm).
+Run the IDE of your choice and create a project and setup the search paths to point to the library source and pass -lAlegrinho to the linker.  
 Currently it was compiled only on Windows using MinGW. I'm not sure if it is ready for other compilers/platforms.
